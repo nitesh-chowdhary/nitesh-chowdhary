@@ -38,12 +38,3 @@
 <a href="https://hashnode.com/@niteshchowdhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@niteshchowdhary" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nitesh-leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitesh-leetcode" height="30" width="40" /></a>
 </p>
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh-github143&show_icons=true&locale=en&layout=compact" alt="nitesh-github143" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh-github143&show_icons=true&locale=en" alt="nitesh-github143" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-github143&" alt="nitesh-github143" /></p>
