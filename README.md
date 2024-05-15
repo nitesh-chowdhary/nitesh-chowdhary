@@ -1,3 +1,5 @@
-<h1>Hi, I'm Nitesh</h1>
+Hi, I'm Janno 👋
 
-<h2>I'm a MERN stack developer and a React Native Developer. I have worked on AWS and currently learning DevOps</h2>
+I'm a Software developer based in Philippines. I have over 7 years of experience in Software development. I developed backend solutions and frontend/mobile applications for companies and startups to make their idea into a solid business.
+
+If I'm not coding, I'm likely playing board games (mostly social deduction type of board/card games 😉) or playing video games.
