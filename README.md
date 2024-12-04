@@ -50,6 +50,6 @@ I'm a **Software Developer** based in India with **2+ years of experience** in s
 ### 🌱 Let’s Connect!
 
 - **LinkedIn**: https://www.linkedin.com/in/nitesh-chowdhary-004327249/  
-- **GitHub**: https://github.com/nitesh-github143 
+- **GitHub**: https://github.com/nitesh-chowdhary 
 
 Thanks for stopping by! 😊
