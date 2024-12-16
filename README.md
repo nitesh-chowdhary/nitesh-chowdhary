@@ -21,7 +21,7 @@ I'm a **Software Developer** based in India with **2+ years of experience** in s
 
 ### 🛠️ Others
 - Redux, Redux Toolkit  
-- TypeScript, SwiftUI  
+- TypeScript
 
 ---
 
