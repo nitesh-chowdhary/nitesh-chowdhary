@@ -1,6 +1,6 @@
 # Hi, I'm Nitesh 👋  
 
-I'm a **Software Developer** based in India with **2+ years of experience** in software development. I specialize in creating **backend solutions**, **web frontends**, and **mobile applications** that help companies and startups turn their ideas into successful businesses. 🚀  
+I'm a **Software Developer** based in India with **4+ years of experience** in software development. I specialize in creating **backend solutions**, **web frontends**, and **mobile applications** that help companies and startups turn their ideas into successful businesses. 🚀  
 
 ---
 
